@@ -21,7 +21,7 @@ const projects = [
     technologies: ["React.js", "Next.js", "TypeScript", "Redux Toolkit", "TailwindCSS", "Socket.io"],
     highlights: ["Real-time messaging", "Job listings", "Company profiles", "Advanced filters"],
     image: "/professional-networking-platform-with-job-listings.jpg",
-    url: "https://bitcorpen.zooq.app/",
+    url: "https://bitcorpen.zooq.app",
   },
   {
     title: "Gulf Laser Tag",
@@ -31,7 +31,7 @@ const projects = [
     technologies: ["React.js", "Next.js", "TailwindCSS", "i18next"],
     highlights: ["RTL support", "Multilingual", "Responsive design", "Contact forms"],
     image: "/modern-corporate-website-for-laser-tag-entertainme.jpg",
-    url: "https://nadayahya.zooq.app/",
+    url: "https://nadayahya.zooq.app",
   },
   {
     title: "Dall-AI Art Generator",
